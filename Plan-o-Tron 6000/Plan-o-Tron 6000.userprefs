@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Plan-o-Tron 6000/Statics/JobList.cs">
+    <Files>
+      <File FileName="Plan-o-Tron 6000/Statics/Enums.cs" Line="13" Column="22" />
+      <File FileName="Plan-o-Tron 6000/Statics/Item.cs" Line="1" Column="1" />
+      <File FileName="Plan-o-Tron 6000/Statics/ItemList.cs" Line="376" Column="4" />
+      <File FileName="Plan-o-Tron 6000/Statics/Job.cs" Line="49" Column="52" />
+      <File FileName="Plan-o-Tron 6000/Statics/JobList.cs" Line="47" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

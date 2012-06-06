@@ -1,0 +1,57 @@
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.exe
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.pdb
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.Properties.Resources.resources
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.exe
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.pdb
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.exe
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.pdb
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.exe
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.pdb
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.Properties.Resources.resources
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.DebugWindow.resources
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.Form1.resources
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.dll
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.dll
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.pdb
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.pdb
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.dll
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.dll
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.pdb
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.pdb
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.DebugWindow.resources
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.Form1.resources
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.JobInspector.resources
+C:\swe\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.JobInspector.resources
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.exe
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.pdb
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.exe
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Plan-o-Tron 6000.pdb
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.dll
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.dll
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.UI.pdb
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\bin\Debug\Wizard.Controls.pdb
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.Properties.Resources.resources
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.DebugWindow.resources
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.Form1.resources
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.JobInspector.resources
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dorian\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.exe
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.pdb
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.Properties.Resources.resources
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.DebugWindow.resources
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.Form1.resources
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.JobInspector.resources
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julian\Documents\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.exe
+C:\Users\Julian\Documents\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan-o-Tron 6000.pdb
+C:\swe2\My Dropbox\Ibsys2\Plan-o-Tron 6000\Plan-o-Tron 6000\Plan-o-Tron 6000\obj\x86\Debug\Plan_o_Tron_6000.UI.CalculateForm.resources
