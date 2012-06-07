@@ -55,6 +55,7 @@
     <Compile Include="Domain\WaitingLists.cs" />
     <Compile Include="Domain\Warehouse.cs" />
     <Compile Include="Domain\WarehouseItem.cs" />
+    <Compile Include="Logic\MainCalculation.cs" />
     <Compile Include="Logic\Orders\OrderTools.cs" />
     <Compile Include="Logic\Schedule\ScheduleTools.cs" />
     <Compile Include="Statics\Enums.cs" />
