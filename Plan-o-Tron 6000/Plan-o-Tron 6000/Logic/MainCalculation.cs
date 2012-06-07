@@ -8,9 +8,13 @@ namespace Plan_o_Tron_6000.Logic
     public static class MainCalculation
     {
         public static void Calc(int productionH, int productionD, int productionK)
-        { }
+        { 
+            //TODO: Alles
+        }
 
         public static void Calc(int productionH, int productionD, int productionK, int[] prog1, int[] prog2, int[] prog3)
-        { }
+        {
+            //TODO: Alles
+        }
     }
 }

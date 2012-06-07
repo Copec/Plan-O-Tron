@@ -14,7 +14,7 @@ namespace Plan_o_Tron_6000.XML
     /// </summary>
     public static class ImportXML
     {
-        public static int Import(string path = "output.xml")
+        public static void Import(string path = "output.xml")
         {
             XDocument data = XDocument.Load(path);
 
@@ -51,8 +51,8 @@ namespace Plan_o_Tron_6000.XML
             }
 
 
-//                            foreach (XElement element in data.Elements().Elements("waitinglistworkstations").Elements())
-//                            {
+                            foreach (XElement element in data.Elements().Elements("waitinglistworkstations").Elements())
+                            {
 //                                int workplaceId = Convert.ToInt32(element.Attribute("id").Value);
 //                                WaitingListJob waitingListJob = new WaitingListJob();
 //                                //TODO: Leere Objekte anlegen oder nicht?
@@ -62,8 +62,8 @@ namespace Plan_o_Tron_6000.XML
 //                                {
 //                                    waitingListJob.TimeNeeded += Convert.ToInt32(element.Attribute("timeneed").Value);
 //                                }
-//                                foreach (XElement child in element.Elements())
-//                                {
+                                foreach (XElement child in element.Elements())
+                                {
 //                                    var id = child.Attribute("item").Value + " ";
 //                                    Teil teil = teilList.FirstOrDefault(x => x.Bezeichung.StartsWith(id));
 
@@ -71,19 +71,19 @@ namespace Plan_o_Tron_6000.XML
 //                                    {
 //                                        teil.MengeInBestellung += Convert.ToInt32(child.Attribute("amount").Value);
 //                                    }
-//                                }
-//                            }
+                                }
+                            }
 
-//                //            foreach (XElement elementMissingPart in data.Elements().Elements("waitingliststock").Elements())
-//                //            {
+                        foreach (XElement elementMissingPart in data.Elements().Elements("waitingliststock").Elements())
+                        {
 //                //                //Int32 itemID;
 //                //                var missingTeilId = elementMissingPart.Attribute("id").Value + " ";
 //                //                Teil missingTeil = teilList.FirstOrDefault(x => x.Bezeichung.StartsWith(missingTeilId));
 
 //                //                var summeMissingTeil = 0;
 
-//                //                foreach (XElement elementWaitingList in elementMissingPart.Elements())
-//                //                {
+                                foreach (XElement elementWaitingList in elementMissingPart.Elements())
+                                {
 //                //                    var itemID = elementWaitingList.Attribute("item").Value + " ";
 
 //                //                    Debug.WriteLine("MissingTeil: " + missingTeil.Bezeichung);
@@ -93,7 +93,7 @@ namespace Plan_o_Tron_6000.XML
 //                //                    summeMissingTeil += missingTeil.VerbautIn.FirstOrDefault(x => x.VerbautIn.Bezeichung.StartsWith(itemID)).Menge * Convert.ToInt32(elementWaitingList.Attribute("amount").Value);
 
 //                //                    Debug.WriteLine("SummeMissingTeil: " + summeMissingTeil);
-//                //                }
+                                }
 
 //                //                Debug.WriteLine("GESAMT: SummeMissingTeil: " + summeMissingTeil);
 //                //                Debug.WriteLine("MissingTeil MengeInBestellungPeriode: " + missingTeil.MengeInBestellungPeriode);
@@ -122,7 +122,7 @@ namespace Plan_o_Tron_6000.XML
 
 //                //                        Debug.WriteLine("Nach Addition: Item MengeInBestellung: " + item.MengeInBestellung);
 //                //                    }
-//                //                }
+                        //}
 
 //                //                Debug.WriteLine(missingTeil.MengeInBestellungPeriode + " > 0 && " + missingTeil.MengeInBestellungPeriode + " < " + summeMissingTeil);
 
@@ -130,8 +130,8 @@ namespace Plan_o_Tron_6000.XML
 //                //                {
 //                //                    var mengeInBestellungOffen = Convert.ToDouble(missingTeil.MengeInBestellungPeriode);
 
-//                //                    foreach (XElement elementWaitingList in elementMissingPart.Elements())
-//                //                    {
+                                foreach (XElement elementWaitingList in elementMissingPart.Elements())
+                                {
 //                //                        if (mengeInBestellungOffen > 0)
 //                //                        {
 //                //                            var itemID = elementWaitingList.Attribute("item").Value + " ";
@@ -158,10 +158,10 @@ namespace Plan_o_Tron_6000.XML
 //                //                    }
 //                //                }
 
-//                //            }
+                                }
 
-//                //            foreach (XElement element in data.Elements().Elements("ordersinwork").Elements())
-//                //            {
+                        foreach (XElement element in data.Elements().Elements("ordersinwork").Elements())
+                        {
 //                //                var id = element.Attribute("item").Value + " ";
 //                //                Teil teil = teilList.FirstOrDefault(x => x.Bezeichung.StartsWith(id));
 //                //                int workplaceId = Convert.ToInt32(element.Attribute("id").Value);
@@ -177,11 +177,11 @@ namespace Plan_o_Tron_6000.XML
 //                //                }
 
 
-//                //            }
+                        }
 
 //                //            App.DataContext.SaveChanges();
-            return currentPeriod;
-            //}
+            //return currentPeriod;
+            }
         }
     }
 }

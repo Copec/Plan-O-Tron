@@ -25,11 +25,10 @@ namespace Plan_o_Tron_6000.UI
         private void CaclulateButton_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-            
-            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+
+            //Zeigt Sanduhr an 
+            using (Cursors.WaitCursor)
             {
-                string path = saveFileDialog1.FileName;
-                
                 // Werte von Decimal in int wandeln
                 int h, d, k;
 
@@ -54,7 +53,7 @@ namespace Plan_o_Tron_6000.UI
                     p3[0] = Convert.ToInt32(numericUpDown12.Value);
                     p3[1] = Convert.ToInt32(numericUpDown8.Value);
                     p3[2] = Convert.ToInt32(numericUpDown11.Value);
-                    
+
 
                     MainCalculation.Calc(h, d, k, p1, p2, p3);
                 }
@@ -62,6 +61,12 @@ namespace Plan_o_Tron_6000.UI
                 {
                     MainCalculation.Calc(h, d, k);
                 }
+            }
+            
+
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string path = saveFileDialog1.FileName;
             }
         }   
     }
